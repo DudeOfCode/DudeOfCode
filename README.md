@@ -23,7 +23,7 @@ I'm a **Fullstack developer, Debugger and Technical Support Provider** with 4-5 
 ## 👩🏾‍💻 About Me
 
 - 🙋🏾‍♀️ **Pronouns:** He/Him
-- 🎓 **Fun fact:** I find and fix coding problems easily, I can debug a project with thousands of codes within a day.
+- 🎓 **Fun fact:** I can find and fix coding problems easily, I can debug a project with thousands of codes within a day.
 - 🌱 **Currently learning:** Kotlin and Android Development
 - 🤝 **Looking for:** open source projects, hackathons, internships, and entry-level opportunities
 - 💼 **Interested in:** Software Engineer, Debugging and Fullstack Developer roles
