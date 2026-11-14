@@ -10,15 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR_BLOG_LINK"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://YOUR_PODCAST_LINK"><img src="https://img.shields.io/badge/Podcast-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-I'm a **Fullstack developer, Debugger and Technical Support Provider** with 4-5 years of experience. I love sharing knowledge, documentation, and web engineering, and I create technical content on my [Hashnode blog](https://YOUR_BLOG_LINK) and [podcast](https://YOUR_PODCAST_LINK).
+I'm a **Fullstack developer, Debugger and Technical Support Provider** with 4-5 years of experience. I love sharing knowledge, and web engineering.
 
 ## 👩🏾‍💻 About Me
 
