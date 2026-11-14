@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello there, welcome 👋🏾</h1>
 
 <p align="center">
@@ -7,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=6366f1&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DudeOfCode&label=Profile+views&color=6366f1&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="Followers" />
 </p>
 
