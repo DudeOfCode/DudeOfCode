@@ -32,7 +32,7 @@ I'm a **Fullstack developer, Debugger and Technical Support Provider** with 4-5 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,redux,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,solidity,git,github,kotlin,python,ionic" />
 </p>
 
 ## 📊 GitHub Stats
