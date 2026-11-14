@@ -1,12 +1,12 @@
 <h1 align="center">Hello there, welcome 👋🏾</h1>
 
 <p align="center">
-  <img src="/assets/dude-of-code-3-braces-badge.png?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines= Fullstack+Developer+💻;Technical+Writer+✍️;Open+Source+Enthusiast+🌍;Always+learning+🌱" alt="Typing animation" />
+  <img src="/assets/dude-of-code-3-braces-badge.svg?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines= Fullstack+Developer+💻;Technical+Writer+✍️;Open+Source+Enthusiast+🌍;Always+learning+🌱" alt="Typing animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DudeOfCode&label=Profile+views&color=6366f1&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/DudeOfCode?style=social" alt="Followers" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-I'm a **fullstack developer, debugger and technical writer** with 2-3 years of experience. I love sharing knowledge, documentation, and web engineering, and I create technical content on my [Hashnode blog](https://YOUR_BLOG_LINK) and [podcast](https://YOUR_PODCAST_LINK).
+I'm a **fullstack developer, debugger and technical support** with 4-5 years of experience. I love sharing knowledge, documentation, and web engineering, and I create technical content on my [Hashnode blog](https://YOUR_BLOG_LINK) and [podcast](https://YOUR_PODCAST_LINK).
 
 ## 👩🏾‍💻 About Me
 
@@ -43,7 +43,7 @@ I'm a **fullstack developer, debugger and technical writer** with 2-3 years of e
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DudeOfCode&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
